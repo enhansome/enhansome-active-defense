@@ -1,0 +1,260 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Artillery",
+          "description": "A blue team tool designed to protect Linux and Windows operating systems through multiple methods",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-06T01:14:11Z",
+            "owner": "BinaryDefense",
+            "repo": "artillery",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DenyHosts",
+          "description": "A utility to thwart SSH brute force attacks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T19:25:19Z",
+            "owner": "denyhosts",
+            "repo": "denyhosts",
+            "stars": 707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spidertrap",
+          "description": "A tool to trap web crawlers and spiders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-24T22:27:37Z",
+            "owner": "adhdproject",
+            "repo": "spidertrap",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OsChameleon",
+          "description": "A tool that hides the fingerprint of modern linux kernels from tools such as nmap (Currently Python 2 only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T05:27:20Z",
+            "owner": "mushorg",
+            "repo": "oschameleon",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP-HTTP-Tarpit",
+          "description": "A tool designed to confuse and trap misbehaving webspiders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-26T20:40:16Z",
+            "owner": "msigley",
+            "repo": "PHP-HTTP-Tarpit",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bear Trap",
+          "description": "A portable network defense utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-11-22T17:16:57Z",
+            "owner": "chrisbdaemon",
+            "repo": "beartrap",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cowrie",
+          "description": "A medium to high interaction SSH and Telnet honeypot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-25T22:40:18Z",
+            "owner": "adhdproject",
+            "repo": "cowrie",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honey Ports",
+          "description": "A cross-platform HoneyPort solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-24T22:45:14Z",
+            "owner": "adhdproject",
+            "repo": "honeyports",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpot",
+          "description": "A script that detects bots for wordpress installations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-03-04T16:14:24Z",
+            "owner": "adhdproject",
+            "repo": "wordpot",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rubberglue",
+          "description": "An evolution of the honeyports concept",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-10T19:14:25Z",
+            "owner": "adhdproject",
+            "repo": "rubberglue",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Annoyance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCanary",
+          "description": "A program to host a local CanaryTokens server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-07-28T11:33:15Z",
+            "owner": "thinkst",
+            "repo": "canarytokens-docker",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RITA",
+          "description": "An open source framework for network traffic analysis (Currently not installed on ADHD4)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-17T18:58:01Z",
+            "owner": "activecm",
+            "repo": "rita",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honeybadger",
+          "description": "A framework for targeted geolocation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-10T17:59:44Z",
+            "owner": "adhdproject",
+            "repo": "honeybadger",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Attribution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Recon-ng",
+          "description": "A framework for passive recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-01T20:11:51Z",
+            "owner": "lanmaster53",
+            "repo": "recon-ng",
+            "stars": 5850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gcat",
+          "description": "A tool for establishing and controlling C2 channels via gmail",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-28T21:16:17Z",
+            "owner": "adhdproject",
+            "repo": "gcat",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java-Web-Attack",
+          "description": "A standalone version of a similar tool in SET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-06-10T18:33:37Z",
+            "owner": "adhdproject",
+            "repo": "java-web-attack",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SET",
+          "description": "A framework for social engineering",
+          "children": []
+        }
+      ],
+      "title": "Attack"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:57:59.465Z",
+    "original_repository": "adhdproject/awesome-active-defense",
+    "original_repository_sha": "23cd764569882501d6e9b3de3bb08c6b7d1957d5",
+    "enhanced_repository": "enhansome/enhansome-active-defense",
+    "enhanced_repository_description": null,
+    "title": "Awesome Active Defense with stars"
+  }
+}
