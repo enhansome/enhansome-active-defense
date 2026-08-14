@@ -14,7 +14,7 @@
             "last_commit": "2022-01-06T01:14:11Z",
             "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 1038
+            "stars": 1037
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5850
+            "stars": 5851
           }
         },
         {
@@ -250,7 +250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:57:59.465Z",
+    "last_updated": "2026-08-14T19:50:31.216Z",
     "original_repository": "adhdproject/awesome-active-defense",
     "original_repository_sha": "23cd764569882501d6e9b3de3bb08c6b7d1957d5",
     "enhanced_repository": "enhansome/enhansome-active-defense",

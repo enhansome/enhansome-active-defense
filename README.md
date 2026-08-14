@@ -12,7 +12,7 @@ an awesome list of active defense resources
 
 ### Related Lists
 
-* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,518 | 🐛 20 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,521 | 🐛 21 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
 
 ### Resources
 
@@ -22,7 +22,7 @@ an awesome list of active defense resources
 
 ### Annoyance
 
-* [Artillery](https://github.com/BinaryDefense/artillery) ⭐ 1,038 | 🐛 25 | 🌐 Python | 📅 2022-01-06 - A blue team tool designed to protect Linux and Windows operating systems through multiple methods
+* [Artillery](https://github.com/BinaryDefense/artillery) ⭐ 1,037 | 🐛 25 | 🌐 Python | 📅 2022-01-06 - A blue team tool designed to protect Linux and Windows operating systems through multiple methods
 * [DenyHosts](https://github.com/denyhosts/denyhosts) ⭐ 707 | 🐛 69 | 🌐 Python | 📅 2026-07-01 - A utility to thwart SSH brute force attacks
 * [Spidertrap](https://github.com/adhdproject/spidertrap) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2020-06-24 - A tool to trap web crawlers and spiders
 * [OsChameleon](https://github.com/mushorg/oschameleon) ⭐ 77 | 🐛 9 | 🌐 Python | 📅 2024-05-21 - A tool that hides the fingerprint of modern linux kernels from tools such as nmap (Currently Python 2 only)
@@ -49,7 +49,7 @@ an awesome list of active defense resources
 
 ### Attack
 
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,850 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - A framework for passive recon
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,851 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - A framework for passive recon
 * [Gcat](https://github.com/adhdproject/gcat) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-28 - A tool for establishing and controlling C2 channels via gmail
 * [Java-Web-Attack](https://github.com/adhdproject/java-web-attack) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2020-06-10 - A standalone version of a similar tool in SET
 * [Beef](https://beefproject.com) - A tool for browser exploitation
@@ -58,4 +58,4 @@ an awesome list of active defense resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
