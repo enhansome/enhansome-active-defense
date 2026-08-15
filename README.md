@@ -12,7 +12,7 @@ an awesome list of active defense resources
 
 ### Related Lists
 
-* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,521 | 🐛 21 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,523 | 🐛 21 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
 
 ### Resources
 
@@ -58,4 +58,4 @@ an awesome list of active defense resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
