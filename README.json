@@ -171,7 +171,7 @@
             "last_commit": "2026-07-28T11:33:15Z",
             "owner": "thinkst",
             "repo": "canarytokens-docker",
-            "stars": 662
+            "stars": 666
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-06-17T18:58:01Z",
             "owner": "activecm",
             "repo": "rita",
-            "stars": 626
+            "stars": 627
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5866
+            "stars": 5867
           }
         },
         {
@@ -260,7 +260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:24.099Z",
+    "last_updated": "2026-08-24T19:34:09.521Z",
     "original_repository": "adhdproject/awesome-active-defense",
     "original_repository_id": 157331390,
     "original_repository_sha": "23cd764569882501d6e9b3de3bb08c6b7d1957d5",
