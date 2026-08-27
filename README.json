@@ -186,7 +186,7 @@
             "last_commit": "2026-06-17T18:58:01Z",
             "owner": "activecm",
             "repo": "rita",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5871
+            "stars": 5873
           }
         },
         {
@@ -260,9 +260,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:43:38.440Z",
-    "original_repository": "adhdproject/awesome-active-defense",
-    "original_repository_id": 157331390,
+    "last_updated": "2026-08-27T11:18:09.686Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 157331390,
+      "language": null,
+      "last_commit": "2020-07-11T00:34:51Z",
+      "owner": "adhdproject",
+      "repo": "awesome-active-defense",
+      "stars": 129
+    },
     "original_repository_sha": "23cd764569882501d6e9b3de3bb08c6b7d1957d5",
     "enhanced_repository": "enhansome/enhansome-active-defense",
     "enhanced_repository_description": null,
