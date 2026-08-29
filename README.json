@@ -16,7 +16,8 @@
             "owner": "BinaryDefense",
             "repo": "artillery",
             "stars": 1039
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "denyhosts",
             "repo": "denyhosts",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "adhdproject",
             "repo": "spidertrap",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mushorg",
             "repo": "oschameleon",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "msigley",
             "repo": "PHP-HTTP-Tarpit",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "chrisbdaemon",
             "repo": "beartrap",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "adhdproject",
             "repo": "cowrie",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "adhdproject",
             "repo": "honeyports",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "adhdproject",
             "repo": "wordpot",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "adhdproject",
             "repo": "rubberglue",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         }
       ],
       "title": "Annoyance"
@@ -172,7 +182,8 @@
             "owner": "thinkst",
             "repo": "canarytokens-docker",
             "stars": 667
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "activecm",
             "repo": "rita",
             "stars": 630
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "adhdproject",
             "repo": "honeybadger",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         }
       ],
       "title": "Attribution"
@@ -222,8 +235,9 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5873
-          }
+            "stars": 5874
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "adhdproject",
             "repo": "gcat",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         },
         {
           "node_type": "item",
@@ -253,14 +268,15 @@
             "owner": "adhdproject",
             "repo": "java-web-attack",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
         }
       ],
       "title": "Attack"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:31:35.653Z",
+    "last_updated": "2026-08-29T02:01:58.429Z",
     "original_repository_info": {
       "archived": false,
       "id": 157331390,
