@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Artillery Project is an open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.",
+            "homepage": null,
             "id": 33740868,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-06T01:14:11Z",
+            "open_issues": 25,
             "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 1039
+            "stars": 1039,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated host blocking from SSH brute force attacks",
+            "homepage": null,
             "id": 345275,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-01T19:25:19Z",
+            "open_issues": 69,
             "owner": "denyhosts",
             "repo": "denyhosts",
-            "stars": 707
+            "stars": 707,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traps web spiders",
+            "homepage": null,
             "id": 271051157,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-24T22:27:37Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "spidertrap",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OS Fingerprint Obfuscation for modern Linux  Kernels",
+            "homepage": null,
             "id": 30249638,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-21T05:27:20Z",
+            "open_issues": 9,
             "owner": "mushorg",
             "repo": "oschameleon",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -74,12 +94,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Confuse and waste bot scanners time.",
+            "homepage": null,
             "id": 19460437,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-09-26T20:40:16Z",
+            "open_issues": 0,
             "owner": "msigley",
             "repo": "PHP-HTTP-Tarpit",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "http-tarpit",
+              "php"
+            ]
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -90,12 +118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 2661688,
             "language": "Ruby",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-11-22T17:16:57Z",
+            "open_issues": 0,
             "owner": "chrisbdaemon",
             "repo": "beartrap",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -106,12 +139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io",
+            "homepage": "https://www.cowrie.org/",
             "id": 275027936,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-25T22:40:18Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "cowrie",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -122,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a port made of honey for blocking people",
+            "homepage": null,
             "id": 271109102,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-24T22:45:14Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "honeyports",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -138,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Wordpress Honeypot",
+            "homepage": "http://brindi.si/g/projects/wordpot.html",
             "id": 272517791,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-03-04T16:14:24Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "wordpot",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -154,12 +202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rubberglue is an evolution of the honeyports concept.",
+            "homepage": null,
             "id": 271363221,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-10T19:14:25Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "rubberglue",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         }
@@ -176,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker configuration to quickly setup your own Canarytokens.",
+            "homepage": null,
             "id": 39951106,
             "language": "Dockerfile",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-28T11:33:15Z",
+            "open_issues": 0,
             "owner": "thinkst",
             "repo": "canarytokens-docker",
-            "stars": 667
+            "stars": 667,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -192,12 +250,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.",
+            "homepage": "https://www.activecountermeasures.com/free-tools/rita/",
             "id": 821147194,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-17T18:58:01Z",
+            "open_issues": 25,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 630
+            "stars": 630,
+            "topics": [
+              "anomaly-detection",
+              "beacons",
+              "blue-team",
+              "c2",
+              "c2-detection",
+              "command-and-control",
+              "cyber-security",
+              "incident-response",
+              "intrusion-detection",
+              "log-analysis",
+              "network-monitoring",
+              "network-traffic-analysis",
+              "security-tools",
+              "threat-hunting",
+              "threat-intelligence",
+              "zeek"
+            ]
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -208,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 155242849,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-10T17:59:44Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "honeybadger",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         }
@@ -230,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
+            "homepage": null,
             "id": 178254323,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-01T20:11:51Z",
+            "open_issues": 38,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5874
+            "stars": 5874,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -246,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PoC backdoor that uses Gmail as a C&C server",
+            "homepage": null,
             "id": 275255307,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-06-28T21:16:17Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "gcat",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -262,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Encoder for Metasploit Payloads",
+            "homepage": null,
             "id": 271123745,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-10T18:33:37Z",
+            "open_issues": 0,
             "owner": "adhdproject",
             "repo": "java-web-attack",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         }
@@ -276,15 +376,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:01:58.429Z",
+    "last_updated": "2026-08-29T04:55:06.090Z",
     "original_repository_info": {
       "archived": false,
+      "description": "an awesome list of active defense resources",
+      "homepage": null,
       "id": 157331390,
       "language": null,
+      "license": null,
       "last_commit": "2020-07-11T00:34:51Z",
+      "open_issues": 1,
       "owner": "adhdproject",
       "repo": "awesome-active-defense",
-      "stars": 129
+      "stars": 129,
+      "topics": [
+        "active-defense",
+        "awesome",
+        "awesome-list",
+        "honeypot",
+        "honeypots",
+        "list"
+      ]
     },
     "original_repository_sha": "23cd764569882501d6e9b3de3bb08c6b7d1957d5",
     "enhanced_repository": "enhansome/enhansome-active-defense",
