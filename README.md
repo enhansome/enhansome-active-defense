@@ -49,7 +49,7 @@ an awesome list of active defense resources
 
 ### Attack
 
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,891 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - A framework for passive recon
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,893 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - A framework for passive recon
 * [Gcat](https://github.com/adhdproject/gcat) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-28 - A tool for establishing and controlling C2 channels via gmail
 * [Java-Web-Attack](https://github.com/adhdproject/java-web-attack) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2020-06-10 - A standalone version of a similar tool in SET
 * [Beef](https://beefproject.com) - A tool for browser exploitation
@@ -58,4 +58,4 @@ an awesome list of active defense resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
