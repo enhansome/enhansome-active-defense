@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 1040,
+            "stars": 1041,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -259,7 +259,7 @@
             "open_issues": 26,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -324,7 +324,7 @@
             "open_issues": 38,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5893,
+            "stars": 5899,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:56:28.790Z",
+    "last_updated": "2026-09-08T21:43:26.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
