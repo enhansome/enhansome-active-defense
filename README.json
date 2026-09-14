@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "adhdproject",
             "repo": "spidertrap",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -324,7 +324,7 @@
             "open_issues": 38,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5910,
+            "stars": 5914,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:20:02.931Z",
+    "last_updated": "2026-09-14T22:22:38.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
