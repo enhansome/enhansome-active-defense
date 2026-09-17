@@ -12,7 +12,7 @@ an awesome list of active defense resources
 
 ### Related Lists
 
-* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,563 | 🐛 26 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,562 | 🐛 28 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
 
 ### Resources
 
@@ -26,7 +26,7 @@ an awesome list of active defense resources
 * [DenyHosts](https://github.com/denyhosts/denyhosts) ⭐ 707 | 🐛 69 | 🌐 Python | 📅 2026-07-01 - A utility to thwart SSH brute force attacks
 * [Spidertrap](https://github.com/adhdproject/spidertrap) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2020-06-24 - A tool to trap web crawlers and spiders
 * [OsChameleon](https://github.com/mushorg/oschameleon) ⭐ 77 | 🐛 9 | 🌐 Python | 📅 2024-05-21 - A tool that hides the fingerprint of modern linux kernels from tools such as nmap (Currently Python 2 only)
-* [PHP-HTTP-Tarpit](https://github.com/msigley/PHP-HTTP-Tarpit) ⭐ 71 | 🐛 0 | 🌐 PHP | 📅 2023-09-26 - A tool designed to confuse and trap misbehaving webspiders
+* [PHP-HTTP-Tarpit](https://github.com/msigley/PHP-HTTP-Tarpit) ⭐ 72 | 🐛 0 | 🌐 PHP | 📅 2023-09-26 - A tool designed to confuse and trap misbehaving webspiders
 * [Bear Trap](https://github.com/chrisbdaemon/BearTrap) ⭐ 20 | 🐛 0 | 🌐 Ruby | 📅 2016-11-22 - A portable network defense utility
 * [Cowrie](https://github.com/adhdproject/cowrie) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-25 - A medium to high interaction SSH and Telnet honeypot
 * [Honey Ports](https://github.com/adhdproject/honeyports) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-24 - A cross-platform HoneyPort solution
@@ -40,7 +40,7 @@ an awesome list of active defense resources
 ### Attribution
 
 * [OpenCanary](https://github.com/thinkst/canarytokens-docker) ⭐ 669 | 🐛 0 | 🌐 Dockerfile | 📅 2026-07-28 - A program to host a local CanaryTokens server
-* [RITA](https://github.com/activecm/rita) ⭐ 637 | 🐛 26 | 🌐 Go | 📅 2026-06-17 - An open source framework for network traffic analysis (Currently not installed on ADHD4)
+* [RITA](https://github.com/activecm/rita) ⭐ 639 | 🐛 26 | 🌐 Go | 📅 2026-06-17 - An open source framework for network traffic analysis (Currently not installed on ADHD4)
 * [Honeybadger](https://github.com/adhdproject/honeybadger) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2021-03-10 - A framework for targeted geolocation
 * [CanaryTokens](https://canarytokens.org) - A service for injecting beacons into files
 * [Decloak](https://bitbucket.org/ethanr/decloak) - A tool to identify the real IP address of a web user regardless of proxy settings
@@ -49,7 +49,7 @@ an awesome list of active defense resources
 
 ### Attack
 
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,919 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - A framework for passive recon
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,920 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - A framework for passive recon
 * [Gcat](https://github.com/adhdproject/gcat) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-28 - A tool for establishing and controlling C2 channels via gmail
 * [Java-Web-Attack](https://github.com/adhdproject/java-web-attack) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2020-06-10 - A standalone version of a similar tool in SET
 * [Beef](https://beefproject.com) - A tool for browser exploitation
@@ -58,4 +58,4 @@ an awesome list of active defense resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

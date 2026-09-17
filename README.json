@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "msigley",
             "repo": "PHP-HTTP-Tarpit",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "http-tarpit",
               "php"
@@ -259,7 +259,7 @@
             "open_issues": 26,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 637,
+            "stars": 639,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -324,7 +324,7 @@
             "open_issues": 38,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5919,
+            "stars": 5920,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T21:59:30.830Z",
+    "last_updated": "2026-09-17T22:00:23.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
