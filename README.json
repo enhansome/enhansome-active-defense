@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "adhdproject",
             "repo": "spidertrap",
-            "stars": 79,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -259,7 +259,7 @@
             "open_issues": 26,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -324,7 +324,7 @@
             "open_issues": 38,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5922,
+            "stars": 5924,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:33:05.212Z",
+    "last_updated": "2026-09-19T21:22:43.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
