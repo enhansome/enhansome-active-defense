@@ -321,10 +321,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2024-11-01T20:11:51Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5924,
+            "stars": 5925,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:22:43.719Z",
+    "last_updated": "2026-09-20T21:21:28.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
