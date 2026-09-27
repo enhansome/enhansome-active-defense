@@ -259,7 +259,7 @@
             "open_issues": 25,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -324,7 +324,7 @@
             "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5943,
+            "stars": 5948,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:55:05.558Z",
+    "last_updated": "2026-09-27T21:57:26.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
