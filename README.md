@@ -40,7 +40,7 @@ an awesome list of active defense resources
 ### Attribution
 
 * [OpenCanary](https://github.com/thinkst/canarytokens-docker) ⭐ 672 | 🐛 0 | 🌐 Dockerfile | 📅 2026-07-28 - A program to host a local CanaryTokens server
-* [RITA](https://github.com/activecm/rita) ⭐ 653 | 🐛 25 | 🌐 Go | 📅 2026-10-01 - An open source framework for network traffic analysis (Currently not installed on ADHD4)
+* [RITA](https://github.com/activecm/rita) ⭐ 654 | 🐛 25 | 🌐 Go | 📅 2026-10-01 - An open source framework for network traffic analysis (Currently not installed on ADHD4)
 * [Honeybadger](https://github.com/adhdproject/honeybadger) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2021-03-10 - A framework for targeted geolocation
 * [CanaryTokens](https://canarytokens.org) - A service for injecting beacons into files
 * [Decloak](https://bitbucket.org/ethanr/decloak) - A tool to identify the real IP address of a web user regardless of proxy settings
@@ -49,7 +49,7 @@ an awesome list of active defense resources
 
 ### Attack
 
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,973 | 🐛 39 | 🌐 Python | 📅 2026-10-05 - A framework for passive recon
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,974 | 🐛 39 | 🌐 Python | 📅 2026-10-05 - A framework for passive recon
 * [Gcat](https://github.com/adhdproject/gcat) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-28 - A tool for establishing and controlling C2 channels via gmail
 * [Java-Web-Attack](https://github.com/adhdproject/java-web-attack) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2020-06-10 - A standalone version of a similar tool in SET
 * [Beef](https://beefproject.com) - A tool for browser exploitation
