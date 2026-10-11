@@ -40,7 +40,7 @@
             "open_issues": 69,
             "owner": "denyhosts",
             "repo": "denyhosts",
-            "stars": 708,
+            "stars": 706,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -259,7 +259,7 @@
             "open_issues": 25,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 658,
+            "stars": 659,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -324,7 +324,7 @@
             "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5984,
+            "stars": 5987,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:21:52.012Z",
+    "last_updated": "2026-10-11T22:44:51.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
