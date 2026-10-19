@@ -40,7 +40,7 @@
             "open_issues": 69,
             "owner": "denyhosts",
             "repo": "denyhosts",
-            "stars": 706,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -238,7 +238,7 @@
             "open_issues": 0,
             "owner": "thinkst",
             "repo": "canarytokens-docker",
-            "stars": 672,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -259,7 +259,7 @@
             "open_issues": 26,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 661,
+            "stars": 663,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -324,7 +324,7 @@
             "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5997,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:21:31.260Z",
+    "last_updated": "2026-10-19T22:50:39.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
