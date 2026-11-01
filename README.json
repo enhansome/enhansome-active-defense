@@ -238,7 +238,7 @@
             "open_issues": 0,
             "owner": "thinkst",
             "repo": "canarytokens-docker",
-            "stars": 676,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -256,7 +256,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-30T23:45:20Z",
-            "open_issues": 25,
+            "open_issues": 28,
             "owner": "activecm",
             "repo": "rita",
             "stars": 667,
@@ -324,7 +324,7 @@
             "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6023,
+            "stars": 6024,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:22:30.659Z",
+    "last_updated": "2026-11-01T22:39:30.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
