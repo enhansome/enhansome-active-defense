@@ -255,8 +255,8 @@
             "id": 821147194,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T23:45:20Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-02T21:34:49Z",
+            "open_issues": 29,
             "owner": "activecm",
             "repo": "rita",
             "stars": 667,
@@ -324,7 +324,7 @@
             "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6024,
+            "stars": 6030,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:39:30.983Z",
+    "last_updated": "2026-11-03T01:29:11.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
