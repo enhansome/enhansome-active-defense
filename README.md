@@ -24,8 +24,8 @@ an awesome list of active defense resources
 
 * [Artillery](https://github.com/BinaryDefense/artillery) ⭐ 1,039 | 🐛 25 | 🌐 Python | 📅 2022-01-06 - A blue team tool designed to protect Linux and Windows operating systems through multiple methods
 * [DenyHosts](https://github.com/denyhosts/denyhosts) ⭐ 708 | 🐛 69 | 🌐 Python | 📅 2026-07-01 - A utility to thwart SSH brute force attacks
-* [Spidertrap](https://github.com/adhdproject/spidertrap) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2020-06-24 - A tool to trap web crawlers and spiders
 * [OsChameleon](https://github.com/mushorg/oschameleon) ⭐ 77 | 🐛 9 | 🌐 Python | 📅 2024-05-21 - A tool that hides the fingerprint of modern linux kernels from tools such as nmap (Currently Python 2 only)
+* [Spidertrap](https://github.com/adhdproject/spidertrap) ⭐ 76 | 🐛 0 | 🌐 Python | 📅 2020-06-24 - A tool to trap web crawlers and spiders
 * [PHP-HTTP-Tarpit](https://github.com/msigley/PHP-HTTP-Tarpit) ⭐ 72 | 🐛 0 | 🌐 PHP | 📅 2023-09-26 - A tool designed to confuse and trap misbehaving webspiders
 * [Bear Trap](https://github.com/chrisbdaemon/BearTrap) ⭐ 20 | 🐛 0 | 🌐 Ruby | 📅 2016-11-22 - A portable network defense utility
 * [Cowrie](https://github.com/adhdproject/cowrie) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-25 - A medium to high interaction SSH and Telnet honeypot
@@ -49,7 +49,7 @@ an awesome list of active defense resources
 
 ### Attack
 
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 6,039 | 🐛 39 | 🌐 Python | 📅 2026-10-05 - A framework for passive recon
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 6,039 | 🐛 40 | 🌐 Python | 📅 2026-10-05 - A framework for passive recon
 * [Gcat](https://github.com/adhdproject/gcat) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-28 - A tool for establishing and controlling C2 channels via gmail
 * [Java-Web-Attack](https://github.com/adhdproject/java-web-attack) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2020-06-10 - A standalone version of a similar tool in SET
 * [Beef](https://beefproject.com) - A tool for browser exploitation
@@ -58,4 +58,4 @@ an awesome list of active defense resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

@@ -47,27 +47,6 @@
         },
         {
           "node_type": "item",
-          "title": "Spidertrap",
-          "description": "A tool to trap web crawlers and spiders",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Traps web spiders",
-            "homepage": null,
-            "id": 271051157,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2020-06-24T22:27:37Z",
-            "open_issues": 0,
-            "owner": "adhdproject",
-            "repo": "spidertrap",
-            "stars": 78,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:01:58.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "OsChameleon",
           "description": "A tool that hides the fingerprint of modern linux kernels from tools such as nmap (Currently Python 2 only)",
           "children": [],
@@ -83,6 +62,27 @@
             "owner": "mushorg",
             "repo": "oschameleon",
             "stars": 77,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Spidertrap",
+          "description": "A tool to trap web crawlers and spiders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Traps web spiders",
+            "homepage": null,
+            "id": 271051157,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2020-06-24T22:27:37Z",
+            "open_issues": 0,
+            "owner": "adhdproject",
+            "repo": "spidertrap",
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -321,7 +321,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T14:10:08Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "lanmaster53",
             "repo": "recon-ng",
             "stars": 6039,
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:59:42.410Z",
+    "last_updated": "2026-11-06T23:40:59.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
