@@ -12,7 +12,7 @@ an awesome list of active defense resources
 
 ### Related Lists
 
-* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,645 | 🐛 31 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,645 | 🐛 32 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
 
 ### Resources
 
@@ -40,7 +40,7 @@ an awesome list of active defense resources
 ### Attribution
 
 * [OpenCanary](https://github.com/thinkst/canarytokens-docker) ⭐ 677 | 🐛 0 | 🌐 Dockerfile | 📅 2026-10-21 - A program to host a local CanaryTokens server
-* [RITA](https://github.com/activecm/rita) ⭐ 668 | 🐛 29 | 🌐 Go | 📅 2026-11-02 - An open source framework for network traffic analysis (Currently not installed on ADHD4)
+* [RITA](https://github.com/activecm/rita) ⭐ 669 | 🐛 28 | 🌐 Go | 📅 2026-11-07 - An open source framework for network traffic analysis (Currently not installed on ADHD4)
 * [Honeybadger](https://github.com/adhdproject/honeybadger) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2021-03-10 - A framework for targeted geolocation
 * [CanaryTokens](https://canarytokens.org) - A service for injecting beacons into files
 * [Decloak](https://bitbucket.org/ethanr/decloak) - A tool to identify the real IP address of a web user regardless of proxy settings
@@ -58,4 +58,4 @@ an awesome list of active defense resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

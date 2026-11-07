@@ -255,11 +255,11 @@
             "id": 821147194,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T21:34:49Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-07T00:05:00Z",
+            "open_issues": 28,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 668,
+            "stars": 669,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:40:59.551Z",
+    "last_updated": "2026-11-07T22:36:58.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
