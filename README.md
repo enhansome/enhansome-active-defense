@@ -12,7 +12,7 @@ an awesome list of active defense resources
 
 ### Related Lists
 
-* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,656 | 🐛 34 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,663 | 🐛 34 | 🌐 Python | 📅 2026-06-01 - List of honeypot resources.
 
 ### Resources
 
@@ -39,7 +39,7 @@ an awesome list of active defense resources
 
 ### Attribution
 
-* [OpenCanary](https://github.com/thinkst/canarytokens-docker) ⭐ 677 | 🐛 0 | 🌐 Dockerfile | 📅 2026-10-21 - A program to host a local CanaryTokens server
+* [OpenCanary](https://github.com/thinkst/canarytokens-docker) ⭐ 678 | 🐛 0 | 🌐 Dockerfile | 📅 2026-10-21 - A program to host a local CanaryTokens server
 * [RITA](https://github.com/activecm/rita) ⭐ 671 | 🐛 23 | 🌐 Go | 📅 2026-11-10 - An open source framework for network traffic analysis (Currently not installed on ADHD4)
 * [Honeybadger](https://github.com/adhdproject/honeybadger) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2021-03-10 - A framework for targeted geolocation
 * [CanaryTokens](https://canarytokens.org) - A service for injecting beacons into files
@@ -49,7 +49,7 @@ an awesome list of active defense resources
 
 ### Attack
 
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 6,041 | 🐛 40 | 🌐 Python | 📅 2026-10-05 - A framework for passive recon
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 6,045 | 🐛 40 | 🌐 Python | 📅 2026-10-05 - A framework for passive recon
 * [Gcat](https://github.com/adhdproject/gcat) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-06-28 - A tool for establishing and controlling C2 channels via gmail
 * [Java-Web-Attack](https://github.com/adhdproject/java-web-attack) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2020-06-10 - A standalone version of a similar tool in SET
 * [Beef](https://beefproject.com) - A tool for browser exploitation
@@ -58,4 +58,4 @@ an awesome list of active defense resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
