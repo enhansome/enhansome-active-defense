@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 1039,
+            "stars": 1038,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -324,7 +324,7 @@
             "open_issues": 40,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6047,
+            "stars": 6048,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:16:31.387Z",
+    "last_updated": "2026-11-14T22:54:19.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
