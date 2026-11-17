@@ -238,7 +238,7 @@
             "open_issues": 0,
             "owner": "thinkst",
             "repo": "canarytokens-docker",
-            "stars": 678,
+            "stars": 679,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -256,10 +256,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-10T00:04:36Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -324,7 +324,7 @@
             "open_issues": 40,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6049,
+            "stars": 6051,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:20:46.914Z",
+    "last_updated": "2026-11-17T02:23:32.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
