@@ -324,7 +324,7 @@
             "open_issues": 40,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6056,
+            "stars": 6059,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:41:39.918Z",
+    "last_updated": "2026-11-21T23:43:58.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
@@ -388,7 +388,7 @@
       "open_issues": 1,
       "owner": "adhdproject",
       "repo": "awesome-active-defense",
-      "stars": 131,
+      "stars": 132,
       "topics": [
         "active-defense",
         "awesome",
