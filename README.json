@@ -224,27 +224,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "OpenCanary",
-          "description": "A program to host a local CanaryTokens server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Docker configuration to quickly setup your own Canarytokens.",
-            "homepage": null,
-            "id": 39951106,
-            "language": "Dockerfile",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-10-21T08:16:54Z",
-            "open_issues": 0,
-            "owner": "thinkst",
-            "repo": "canarytokens-docker",
-            "stars": 678,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:01:58.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "RITA",
           "description": "An open source framework for network traffic analysis (Currently not installed on ADHD4)",
           "children": [],
@@ -259,7 +238,7 @@
             "open_issues": 24,
             "owner": "activecm",
             "repo": "rita",
-            "stars": 678,
+            "stars": 680,
             "topics": [
               "anomaly-detection",
               "beacons",
@@ -278,6 +257,27 @@
               "threat-intelligence",
               "zeek"
             ]
+          },
+          "first_seen": "2026-08-29T02:01:58.429Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCanary",
+          "description": "A program to host a local CanaryTokens server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Docker configuration to quickly setup your own Canarytokens.",
+            "homepage": null,
+            "id": 39951106,
+            "language": "Dockerfile",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-21T08:16:54Z",
+            "open_issues": 0,
+            "owner": "thinkst",
+            "repo": "canarytokens-docker",
+            "stars": 678,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
         },
@@ -324,7 +324,7 @@
             "open_issues": 40,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6068,
+            "stars": 6069,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:14:21.486Z",
+    "last_updated": "2026-11-25T02:58:14.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
