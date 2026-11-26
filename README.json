@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 1038,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -234,8 +234,8 @@
             "id": 821147194,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T06:10:30Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-25T19:25:27Z",
+            "open_issues": 25,
             "owner": "activecm",
             "repo": "rita",
             "stars": 680,
@@ -324,7 +324,7 @@
             "open_issues": 40,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6069,
+            "stars": 6071,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:58:14.764Z",
+    "last_updated": "2026-11-26T02:06:13.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
