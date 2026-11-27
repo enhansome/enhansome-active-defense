@@ -40,7 +40,7 @@
             "open_issues": 69,
             "owner": "denyhosts",
             "repo": "denyhosts",
-            "stars": 708,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -324,7 +324,7 @@
             "open_issues": 40,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 6071,
+            "stars": 6072,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:58.429Z"
@@ -376,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:06:13.381Z",
+    "last_updated": "2026-11-27T02:05:10.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of active defense resources",
